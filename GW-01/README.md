@@ -12,5 +12,5 @@ Image size fits in 8Mb so onboard OrangePi's flash IC that 2Mb only was replaced
 
 [OrangePi Zero H2+ 256Mb development board]: http://www.orangepi.org/orangepizero/
 
-[GW-08]: https://www.wireless-road.com/product-page/gw-01
+[GW-01]: https://www.wireless-road.com/product-page/gw-01
 
