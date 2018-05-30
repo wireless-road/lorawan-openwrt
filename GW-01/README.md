@@ -1,5 +1,5 @@
 # GW-01
-GW-08 is low cost OpenWrt driven LoRaWAN gateway.
+GW-01 is low cost OpenWrt driven LoRaWAN gateway.
 
 # hardware
 [GW-01] gateway consists of two boards:
